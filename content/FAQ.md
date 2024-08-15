@@ -27,7 +27,7 @@ A GDD is known as a Game Design Document. It's like the bible to your game. If a
 # **How Much Does Making A Game Cost?**
 The cost of a games development will vary widely on the game. Things like the target platform, art style and complexity are all things that will change the price of a game. Especially things like multiplayer, as you often have to pay for a server if you want your game to work off of steam, or online databases to store players data to sync across devices (mostly for mobile).
 
-For reference, my starting price is often around $10k, but smaller/quicker games can be closer to $5k. This includes just the programming and does not take into account the costs of art, design, audio, translations (if needed), store fees (Steam costs $100 per game, Apple is $100 per year), engine fees etc. Things like your advertisement budget and having your own website if wanted are also areas you need to consider. _Don't skimp on marketing, it's very important!_
+For reference, my starting price is often around \$10k, but smaller/quicker games can be closer to \$5k. This includes just the programming and does not take into account the costs of art, design, audio, translations (if needed), store fees (the cost to upload the game), engine fees etc. Things like your advertisement budget and having your own website if wanted are also areas you need to consider. _Don't skimp on marketing, it's very important!_
 
 ---
 # **How Long Will My Game Take?**
