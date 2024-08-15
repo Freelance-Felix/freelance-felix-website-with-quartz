@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Chimera Hunt
 draft: true
 tags:
   - UNITY

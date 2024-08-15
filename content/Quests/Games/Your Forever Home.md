@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Your Forever Home
 draft: true
 tags:
   - UNITY
