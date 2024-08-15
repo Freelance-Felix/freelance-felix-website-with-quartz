@@ -1,8 +1,7 @@
 ---
-title: Welcome to Freelance Felix!
+title: Freelance Felix
 ---
 # Game Programmer - Unity/Godot
-## Freelance Felix
 Freelance game programmer with a Bachelors of Science in Game Programming from Champlain College.
 
 ---
