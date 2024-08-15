@@ -10,6 +10,8 @@ Warplight Wanderer is a 3D puzzle exploration game with platformer elements desi
 
 You can view the trailer [here](https://www.youtube.com/watch?v=hwAczg8h-lk), although it is unfortunately unavailable to play.
 
+![[Pasted image 20240815191505.png]]
+
 ---
 # What I Did
 **Tools Programming:** Created a dialogue tool designers used to create branching dialogue with choices in the game.

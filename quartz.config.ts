@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "👾 Freelance Felix",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -22,8 +22,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Fira Code",
+        body: "Fira Code",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -39,15 +39,15 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
+          light: "#282a36",
+          lightgray: "#44475a",
+          gray: "#bd93f9",
+          darkgray: "#f8f8f2",
           dark: "#ebebec",
-          secondary: "#7b97aa",
+          secondary: "#f8f8f2",
           tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          highlight: "rgba(139, 233, 253, 0.15)",
+          textHighlight: "#8be9fd",
         },
       },
     },
