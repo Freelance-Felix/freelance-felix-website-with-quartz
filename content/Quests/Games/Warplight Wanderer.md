@@ -10,7 +10,7 @@ Warplight Wanderer is a 3D puzzle exploration game with platformer elements desi
 
 You can view the trailer [here](https://www.youtube.com/watch?v=hwAczg8h-lk), although it is unfortunately unavailable to play.
 
-![[Pasted image 20240815191505.png]]
+![[WarplightStudioSplashPage.png]]
 
 ---
 # What I Did
@@ -23,3 +23,11 @@ You can view the trailer [here](https://www.youtube.com/watch?v=hwAczg8h-lk), a
 **UI Design:** Designed the layout and concept for the journal UI as well as implemented it in-game.
 
 **Video Editing:** Lastly, I edited and put together the trailer for the game.
+
+![[WarplightStudioDialogue.gif]]
+
+![[WarplightStudioStarSystem.gif]]
+
+![[WarplightStudioPhotobook.gif]]
+
+![[WarplightStudioQuestBook.gif]]
