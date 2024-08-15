@@ -1,5 +1,5 @@
 ---
-title: newPage
+title: "{{title}}"
 draft: true
 tags:
 ---

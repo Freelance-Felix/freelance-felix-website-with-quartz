@@ -1,8 +1,9 @@
 ---
-title: Freelance Felix
+title: Game Programmer - Unity/Godot
 ---
-# Game Programmer - Unity/Godot
 Freelance game programmer with a Bachelors of Science in Game Programming from Champlain College.
+
+[[Character Select]] [[Quests]] [[Quest Givers]] [[FAQ]] [[Message]]
 
 ---
 # [[Quest Givers|What People Are Saying!]]
