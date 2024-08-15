@@ -5,3 +5,5 @@ tags:
 ---
 # Games
 [[Winged Connection]]
+
+[[Warplight Wanderer]]
