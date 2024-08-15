@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Quest Givers
 draft: false
 tags:
 ---
