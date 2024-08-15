@@ -1,11 +1,12 @@
 ---
 title: Your Forever Home
-draft: true
+draft: false
 tags:
   - UNITY
   - UNITY_3D
   - GAME
   - C_SHARP
+  - PC
 ---
 Your Forever Home is a 3D metroidvania style psychological horror puzzle game. The initial prototype was made in a week. The game made it through greenlight and a beta version of the game was made throughout the rest of the semester. You play as a dog from an old pet care game, trying to escape into the real world so you can see your owner again. It was made in Unity 3D.
 

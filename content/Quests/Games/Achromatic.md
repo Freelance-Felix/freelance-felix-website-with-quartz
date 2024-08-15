@@ -6,6 +6,7 @@ tags:
   - UNITY_3D
   - GAME
   - C_SHARP
+  - PC
 ---
 Achromatic is a 3D horror game where the player has to navigate an abandoned 1950s inspired carnival. This game was for my Capstone class and we were a team of 16 people (4 programmers). I was in charge of tools, AI and storyboarded/edited the trailer and team intro videos.
 

@@ -5,6 +5,7 @@ tags:
   - GAME
   - GODOT
   - GDSCRIPT
+  - WEB
 ---
 
 | Details          |                 |

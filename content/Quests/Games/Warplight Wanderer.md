@@ -6,6 +6,7 @@ tags:
   - UNITY_3D
   - GAME
   - C_SHARP
+  - PC
 ---
 Warplight Wanderer is a 3D puzzle exploration game with platformer elements designed to be an overall calming experience, with the puzzles being not too difficult. It was made during the first semester of my senior year for my capstone class. I was in charge of putting together the systems, helping out with making/implementing sound effects, making a song track for the levels as well as designing/implementing the journal UI. It was made in Unity 3D for PC.
 
