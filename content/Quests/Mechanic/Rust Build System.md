@@ -6,7 +6,9 @@ tags:
   - GDSCRIPT
   - MECHANIC
 ---
-Notes go here!
+- Wheel UI
+- Snaps in place
+- Supports triangle floors and half walls
 
 ![[RustBuildingSystemWheel 1.jpg]]
 

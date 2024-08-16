@@ -6,7 +6,12 @@ tags:
   - GDSCRIPT
   - MECHANIC
 ---
-Description goes here
+- Multiple inventories
+- Item stacking
+- Interaction system
+- Interaction icon popup
+- Drag and drop support
+- Gun reload
 
 ![[DragAndDropInventoryChest.jpg]]
 
