@@ -6,9 +6,9 @@ tags:
 # Games
 [[Winged Connection]]: A small, 2D local multiplayer game made for Kenney's Game Jam 2024 in 24 Hours. Fight an onslaught of planes headed your way, communicating with your friend to last as long as possible!
 
-[[Warplight Wanderer]]: Warplight Wanderer is a 3D puzzle exploration game with platformer elements designed to be an overall calming experience, with the puzzles being not too difficult. Enjoy a simple puzzles in this relaxing game.
-
 [[Achromatic]]: Achromatic is a 3D horror game where the player has to navigate an abandoned 1950s inspired carnival. Can you make it to the end without dying?
+
+[[Warplight Wanderer]]: Warplight Wanderer is a 3D puzzle exploration game with platformer elements designed to be an overall calming experience, with the puzzles being not too difficult. Enjoy a simple puzzles in this relaxing game.
 
 [[Your Forever Home]]: Your Forever Home is a 3D metroidvania style psychological horror puzzle game. Can *you* help the pup escape the abandoned house?
 
@@ -18,10 +18,32 @@ tags:
 
 [[A Bomberman-like Clone]]: “Bomberman Clone” is a 2D Godot mobile game designed for the iPhone/Android. Swap between two characters with different abilities to complete all the levels.
 
-[[Cultivation Cooking]]: “Cultivation Cooking” is a 2D Godot mobile game designed for the iPhone/Android. Mix the ingredients and stop them from floating out of the pot to make the best potions.
+[[VFX Autoclicker]]
+
+[[Shoot The Coin]]
+
+[[Corpse Mountain]]
 
 [[Untitled Toaster]]: Untitled Toaster is a 2D shooter where you play as a toaster fighting an onslaught of kitchen appliances/utensils.
 
+[[Cultivation Cooking]]: “Cultivation Cooking” is a 2D Godot mobile game designed for the iPhone/Android. Mix the ingredients and stop them from floating out of the pot to make the best potions.
+
 ---
 # Tools
+[[Dialogue Forge]]
+
 [[Sound Manager for Godot]]: Sound Manager by Nathan Hoad is a tool for dealing with basic sound in Godot using object pooling. I contributed to the project by adding in extra functionality for playing music.
+
+[[Minos UUI Generator for Godot]]
+
+[[Minos Damage Numbers for Godot]]
+
+---
+# Mechanics
+[[Rocket League Camera]]
+
+[[Drag And Drop Inventory]]
+
+[[Crafting & Gathering]]
+
+[[Rust Build System]]

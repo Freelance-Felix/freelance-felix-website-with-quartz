@@ -12,7 +12,7 @@ Your Forever Home is a 3D metroidvania style psychological horror puzzle game. T
 
 You can play the prototype [here](https://minoqi.itch.io/your-forever-home-prototype) and the beta [here](https://minoqi.itch.io/your-forever-home-beta).
 
-![[YourForeverHomeDog.webp]]
+![[YourForeverHomeLogo.png]]
 
 ---
 # What I Did
@@ -21,3 +21,5 @@ During the prototype stage I was the only programmer so did all the programming 
 When we passed greenlight I became the lead programmer after we took on 2 more programmers and spent a lot of my time fixing bugs, git issues, creating builds and communicating between designers and programmers.
 
 ![[YourForeverHomeLevel.webp]]
+
+![[YourForeverHomeDog.webp]]
