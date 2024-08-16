@@ -14,6 +14,8 @@ tags:
 
 You can try out the prototype [here](https://illusionarrays.itch.io/temppegasusprototype).
 
+![[FlyingPegasusUpdatedDemo.gif]]
+
 ---
 # What I Did
 **Programming:** Being the sole programmer I programmed everything about the game which includes the flying system (which was made to work on mobile and computer), the random cloud generation, character selection, score system and UI.
@@ -26,5 +28,7 @@ You can try out the prototype [here](https://illusionarrays.itch.io/temppegasus
 > [!quote] Review
 > *“Felix was consistently available to answer any and all questions I had. He was able to take the ideas I had and implement them asap. I plan on working with Felix again in the future, whenever Felix is available”*
 
-![[FlyingPegasusDemoSH.webp]]
+![[FlyingPegasusCharacterSelect.jpg]]
 
+![[FlyingPegasusDemoSH.webp]]
+*Screenshot of the demo before we had custom art!*
