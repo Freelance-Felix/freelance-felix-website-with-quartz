@@ -21,3 +21,7 @@ tags:
 [[Cultivation Cooking]]: “Cultivation Cooking” is a 2D Godot mobile game designed for the iPhone/Android. Mix the ingredients and stop them from floating out of the pot to make the best potions.
 
 [[Untitled Toaster]]: Untitled Toaster is a 2D shooter where you play as a toaster fighting an onslaught of kitchen appliances/utensils.
+
+---
+# Tools
+[[Sound Manager for Godot]]: Sound Manager by Nathan Hoad is a tool for dealing with basic sound in Godot using object pooling. I contributed to the project by adding in extra functionality for playing music.
