@@ -26,4 +26,4 @@ tags:
 > [!quote] Review
 > *“Excellent work, very helpful developer. He went the extra mile and provided a great result. Highly recommended.”*
 
-![[BombermanLikeCloneSH.webp]]
+![[BombermanLikeCloneSH.png]]

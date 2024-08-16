@@ -1,5 +1,5 @@
 ---
-title: Flying Pegasus
+title: Flying Pegasus Prototype
 draft: false
 tags:
   - GODOT
@@ -8,6 +8,7 @@ tags:
   - GAME
   - MOBILE
   - WEB
+  - PROTOTYPE
 ---
 “Flying Pegasus” is a 2D Godot mobile game designed for the iPhone/Android. You can choose from a list of characters to play and try to last as long as you can, tapping on the screen to jump and avoid running into clouds. I was hired to program the prototype as well as help discuss game design concepts and find artists.
 
